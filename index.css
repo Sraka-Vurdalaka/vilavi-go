@@ -49,34 +49,34 @@ h3 {
 }
 @font-face {
   font-family: 'DINPro';
-  src: url('./../font/DINPro-Light.ttf') format('ttf'),
-    url('./../font/DINPro-Light.woff') format('woff');
+  src: url('../font/DINPro-Light.ttf') format('ttf'),
+    url('../font/DINPro-Light.woff') format('woff');
   font-weight: 200;
 }
 
 @font-face {
   font-family: 'DINPro';
-  src: url('./../font/DINPro.ttf') format('ttf'), url('./../font/DINPro.woff') format('woff');
+  src: url('../font/DINPro.ttf') format('ttf'), url('../font/DINPro.woff') format('woff');
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'DINPro';
-  src: url('./../font/DINPro-Medium.ttf') format('ttf'),
-    url('./../font/DINPro-Medium.woff') format('woff');
+  src: url('../font/DINPro-Medium.ttf') format('ttf'),
+    url('../font/DINPro-Medium.woff') format('woff');
   font-weight: 600;
 }
 
 @font-face {
   font-family: 'DINPro';
-  src: url('./../font/DINPro-Bold.ttf') format('ttf'),
-    url('./../font/DINPro-Bold.woff') format('woff');
+  src: url('../font/DINPro-Bold.ttf') format('ttf'),
+    url('../font/DINPro-Bold.woff') format('woff');
   font-weight: 700;
 }
 
 @font-face {
   font-family: 'DINPro';
-  src: url('./../font/DINPro-Black.ttf') format('ttf'),
-    url('./../font/DINPro-Black.woff') format('woff');
+  src: url('../font/DINPro-Black.ttf') format('ttf'),
+    url('../font/DINPro-Black.woff') format('woff');
   font-weight: 800;
 }
